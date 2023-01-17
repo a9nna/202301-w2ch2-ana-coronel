@@ -1,0 +1,24 @@
+{
+  "name": "202301-w2ch2-ana-coronel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a9nna/202301-w2ch2-ana-coronel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a9nna/202301-w2ch2-ana-coronel/issues"
+  },
+  "homepage": "https://github.com/a9nna/202301-w2ch2-ana-coronel#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
